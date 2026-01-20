@@ -11,12 +11,12 @@ The final insights are presented in an interactive Tableau dashboard🔗 **[Metr
 ## 🖼 Dashboard Screenshots
 
 Static screenshots of the Tableau dashboards are available here:  
-📁 [Open screenshots folder](./screenshots)
+[Open screenshots folder](./screenshots)
 
 ### 📄 Analytical Report (PDF)
 
 A detailed analytical report with key insights and visualizations is available here:  
-📄 **[Metrocar Analytics Report (PDF)](Metrocar_Analytics_Report.pdf)**
+**[Metrocar Analytics Report (PDF)](Metrocar_Analytics_Report.pdf)**
 
 ---
 
