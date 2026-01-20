@@ -6,8 +6,7 @@ SQL + Tableau Analytics Project
 This project analyzes the Metrocar ride-sharing platform using SQL for data analysis and Tableau for visualization.
 
 All metrics were calculated directly in the database using PostgreSQL, with queries executed via DBeaver.
-The final insights are presented in an interactive Tableau dashboard.
-🔗 **[Metrocar Dashboard – Tableau Public](https://public.tableau.com/app/profile/anastasiia.bzhelenko/viz/Project_metrocar/MetrocarDashboard)**
+The final insights are presented in an interactive Tableau dashboard🔗 **[Metrocar Dashboard – Tableau Public](https://public.tableau.com/app/profile/anastasiia.bzhelenko/viz/Project_metrocar/MetrocarDashboard)**
 
 ### 📄 Analytical Report (PDF)
 
@@ -43,41 +42,6 @@ A detailed analytical report with key insights and visualizations is available h
 - Hourly ride demand
 
 ---
-
-📊 Tableau Dashboard
-
-The Metrocar Dashboard consists of:
-
-1️⃣ KPI Summary
-
-- Total users
-- Completed trips
-- Total revenue
-![Metrocar Summary](screenshots/Metrocar%20summary.png)
-
-2️⃣ Age Analysis
-
-- User distribution across age groups
-- Includes “Unknown” segment
-![Age analysis](screenshots/Age%20analysis.png)
-
-3️⃣ Hourly Rides Distribution
-
-- Ride demand by hour of day
-- Clear morning and evening peaks
-![Hourly rides distribution](screenshots/Hourly%20rides%20distribution.png)
-
-4️⃣ Main Users Funnel
-
-- Download → Signup → Ride Requested → Ride Completed → Review
-- Step-by-step drop-off analysis
-![Main users funnel](screenshots/Main%20users%20funnel.png)
-
-5️⃣ Rides Funnel
-
-- Ride requested → accepted → completed → paid
-- Conversion losses visualized at each stage
-![Rides funnel](screenshots/Rides%20funnel.png)
 
 # 📊 Project Status
 
