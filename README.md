@@ -13,6 +13,9 @@ The final insights are presented in an interactive Tableau dashboard🔗 **[Metr
 Static screenshots of the Tableau dashboards are available here:  
 [Open screenshots folder](./screenshots)
 
+### 📸 Example Visualization
+![Users funnel analysis](screenshots/Main users funnel.png)
+
 ### 📄 Analytical Report (PDF)
 
 A detailed analytical report with key insights and visualizations is available here:  
