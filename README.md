@@ -14,7 +14,7 @@ Static screenshots of the Tableau dashboards are available here:
 [Open screenshots folder](./screenshots)
 
 ### 📸 Example Visualization
-![Users funnel analysis](screenshots/Main users funnel.png)
+![Users funnel analysis](screenshots/Main%20users%20funnel.png)
 
 ### 📄 Analytical Report (PDF)
 
